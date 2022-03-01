@@ -1,0 +1,1106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discours of the present troobles in Fraunce, and miseries of this tyme, compyled by Peter Ronsard gentilman of Vandome, and dedicated vnto the Quene Mother, ; translated into English by Thomas Ieney gentilman..</title>
+            <title>Discours des misères de ce temps. English</title>
+            <author>Ronsard, Pierre de, 1524-1585</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1568</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08033</idno>
+            <idno type="STC">STC 21315</idno>
+            <idno type="STC">ESTC S125742</idno>
+            <idno type="EEBO-CITATION">71305167</idno>
+            <idno type="OCLC">ocm 71305167</idno>
+            <idno type="VID">183896</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08033)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183896)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2208:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discours of the present troobles in Fraunce, and miseries of this tyme, compyled by Peter Ronsard gentilman of Vandome, and dedicated vnto the Quene Mother, ; translated into English by Thomas Ieney gentilman..</title>
+                  <title>Discours des misères de ce temps. English</title>
+                  <author>Ronsard, Pierre de, 1524-1585</author>
+                  <author>Jeney, Thomas.</author>
+                  <author>Rogers, Daniel, 1538?-1591. Elegia Danielis Rogerii Albimontii Angli, de perturbata Christiani orbis republica, ad illustrem virum, Henricum Norricium, auratae militiae equitem, sereniss. et Christianiss. principis, D. Elizabethae, Angliae &amp;c. reginae, ad Karolum Nonum Galliae regem, oratorem.</author>
+               </titleStmt>
+               <extent>[34] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at Andwerpe. :</pubPlace>
+                  <date>M. D. LXVIII. [1568].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Head-piece; initials.</note>
+                  <note>Colophon: Anno CI[C] I[C] LXVIII. Calend. Ianuar.</note>
+                  <note>Signatures: A-D⁴ A⁴.</note>
+                  <note>Second signature A contains, with half-title: Elegia Danielis Rogerii Albimontii Angli, de perturbata Christiani orbis republica, ad illustrem virum, Henricum Norricium, auratae militiae equitem, sereniss. et Christianiss. principis, D. Elizabethae, Angliae &amp;c. reginae, ad Karolum Nonum Galliae regem, oratorem.</note>
+                  <note>Reproduction of original in: Carl H. Pforzheimer Library at University of Texas at Austin.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Norris of Rycote, Henry Norris, --  Baron, 1525?-1601.</term>
+               <term>France --  History --  Wars of the Huguenots, 1562-1598 --  Poetry --  Early works to 1800.</term>
+               <term>France --  History --  Charles IX, 1560-1574 --  Poetry --  Early works to1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:183896:1" rendition="simple:additions"/>
+            <pb facs="tcp:183896:1" rendition="simple:additions"/>
+            <pb facs="tcp:183896:2"/>
+            <pb facs="tcp:183896:2" rendition="simple:additions"/>
+            <p>A DISCOVRS OF THE PRESENT TROOBLES IN FRAVNCE, AND MISERIES OF THIS TYME, COM<g ref="char:EOLhyphen"/>PYLED BY PETER RONSARD GENTILMAN OF VANDOME, AND DEDICATED VNTO THE QVENE MOTHER, TRANSLATED IN TO ENGLISH BY THOMAS IENEY GENTILMAN.</p>
+            <p>PRINTED AT ANDWERPE. M.D.LXVIII.</p>
+            <pb facs="tcp:183896:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:183896:3" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:183896:4"/>
+            <head>A PASSION.</head>
+            <l>VVhen grymm diſpaire, vvithe graspe of grieſlye vvooes,</l>
+            <l>In plounged myndes, do vvorke the muſes vvracke:</l>
+            <l>Then boylinge heades turmoyles, the hammars gooes,</l>
+            <l>And hevvmors dryues, as dothe the ſommers racke.</l>
+            <l>No kindlye courſe, his propper plyght reteanes.</l>
+            <l>Sommond vvythe cayres, ſo fayred it by me,</l>
+            <l>By ſoddayne dryft, as flormes by myſtye raynes,</l>
+            <l>Do chooke th'aire, and bryghtnes of the ſkey.</l>
+            <l>In ſuche a plyght, did all my ſenſes ſtand,</l>
+            <l>The ſtorme begann, vvithe in my reſtles brayne,</l>
+            <l>And from my eyes, the ſtreames vvere ſtreight at hand,</l>
+            <l>That on my cheekes, sharpe ſhovvres dovvne did rayne.</l>
+            <l>Eche hevvmor did (as ſurges ſoyles them ſelves,</l>
+            <l>On muddye shoores) vvythe rughe reflex contend.</l>
+            <l>Eche veyne puft vpp, as though vvith flotynge eveles:</l>
+            <l>Did ranſicke oft, vvhat vvay to vvreſt or vvend.</l>
+            <l>My bodye chylld, as all amaſd vvithe vvoo:</l>
+            <l>My trymblynge fleſhe, hott agevves did conſpire:</l>
+            <l>My cluſtred lymes, on froſſen heapes did grovve:</l>
+            <l>And ſtreight reſolud, as thoughe attacht vvithe fyer,</l>
+            <l>VVhere in my corſe, a ſtubburne vvarr begann.</l>
+            <l>My ſobbes ſupt vp, vvythe ſnatchyng breathe redovvnd,</l>
+            <l>And ſmookye ſieghes from clovvdy brest forth came,</l>
+            <l>That eſtſouns forſt, a ſhatterynge hollovve ſound.</l>
+            <l>But vvhat it vvas, that bredd me all this caire,</l>
+            <l>My ſilence ſhall, recorde his cureles dumpe</l>
+            <l>In careles mynde, that yelds not to diſpaire:</l>
+            <l>Nor bragge of fickle fortunes vvorldly brunt.</l>
+            <l>In maſe of vvo, and in this caiſe vvas i:</l>
+            <l>Tvvene hope to rieſe, and feare, to faid, or fall,</l>
+            <l>VVhen first my frend, preſented vnto me</l>
+            <l>This mournynge uerſe, of plaintfull <hi>FRAVNCE</hi> his thrall:</l>
+            <l>And badd me vvreſt, my vvearye muſe to ſynge,</l>
+            <l>Of clatterynge armes, and fyerye <hi>MAVORS</hi> moude:</l>
+            <l>Of hatefull vvarr, en forſt by <hi>ENVYES</hi> ſtynge:</l>
+            <l>To baythe his handes, vvithein his countree bloude.</l>
+            <l>Not halfe ypast, the threats of vvynter ſadd,</l>
+            <l>VVhen <hi>SATVRNE</hi> had, styrd vp the <hi>GAVLES</hi> to armes.</l>
+            <l>My mormynge muſe, in ſorrovve all ycladd,</l>
+            <l>Gan then to vvryet, of theis deuyded harmes.</l>
+            <l>My shaykynge hand, my plaintfull pen begann,</l>
+            <l>To vvayle the <hi>FRENCHE,</hi> and preſent ſtayte of man.</l>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:183896:4"/>
+            <head>TO THE RIGHT HONORABLE, MY VERIE GOOD LORD AND MAISTER SIR HENRY NORREIS KNIGHT. L. AMBASSADOVR RESIDENT IN FRAVNCE.</head>
+            <l>The bale begonne, is when deformed warres,</l>
+            <l>Whith civil ſtroake, embrewes his natiue ſwoorde.</l>
+            <l>For were it not, that rage of rancours roote,</l>
+            <l>By growinge evills, had watcht ſo blacke a tyme,</l>
+            <l>I weane envie, by ſuche owtraginge ſplene</l>
+            <l>Had not brought foorth, this fowle miſhapen chan<g ref="char:EOLhyphen"/>ge</l>
+            <l>In maymed ſtate, that RONSARD wayles in ryme,</l>
+            <l>And I reduce, whith not reſemblinge penne,</l>
+            <l>To Engliſhe grace (though in vnſkilful verſe)</l>
+            <l>By frendes enforſt to publiſh now abroade:</l>
+            <l>Whiche I preſent (SIR) to yowr ſhrowdinge hande,</l>
+            <l>No Trophee, nor maſſe of mighty myne,</l>
+            <l>Nor golden ſomme, but as à miete of fame,</l>
+            <l>Where power failes t'vnlade affections force.</l>
+            <closer>
+               <signed>Your bounden ſervant THOMAS IENEY.</signed>
+            </closer>
+         </div>
+         <div xml:lang="lat" type="encomium">
+            <pb facs="tcp:183896:5"/>
+            <head>AD THOMAM IENEIVM EPIGRAMMA.</head>
+            <l>Gallica ſi laudem Ronſardi Muſa meretur,</l>
+            <l>Dum deflet patriis patria fata ſonis:</l>
+            <l>Et tua, digna ſuis Ieneie eſt laudibus, eius</l>
+            <l>Anglorum in numeros dum breue cogis opus:</l>
+            <l>Nam tibi materia eſt eadem, decurris eodem</l>
+            <l>Tramite, Pieriae doctus vterque lyrae.</l>
+            <l>Ille canit patriae moeſtus fera damna ruentis,</l>
+            <l>Tingit &amp; Aoniis Gallica verba fauis:</l>
+            <l>Tuque ſequens vates Muſae veſtigia Gallae,</l>
+            <l>Sollicitas doctis plectra Britanna modis.</l>
+            <l>Gratia quaéque illum comitatur blanda canentem,</l>
+            <l>Emicat, in verſu nec minor illa tuo eſt.</l>
+            <l>Sic vatem vates vertens, quas ille meretur,</l>
+            <l>Efficis vt laudes ſint quoque iure tuae.</l>
+            <closer>
+               <signed>D. ROGERIVS.</signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <head>FAVVTES ESCAPED IN PRINTINGE.</head>
+            <p>The leafe <hi>B.</hi> iij. ſeconde ſyde, last verſe for <hi>echo es</hi> reade <hi>eckoes.</hi> The leafe follovvinge, fyrſt ſyde, the <hi>24.</hi> lyne, for, <hi>ou blacke Moorey,</hi> reade <hi>thou blacke Moores.</hi> At the ende in the ſonnet, in the ende of the ſixt verſe, for <hi>fa<g ref="char:EOLhyphen"/>me,</hi> reade, <hi>tame.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:183896:5"/>
+            <head>A DISCOVRSE OF THEIS PRESENT TROBLES, AND miſeries of this tŷme.</head>
+            <l>
+               <hi>
+                  <seg rend="decorInit">S</seg>ENCE</hi> that by diuine might of God,</l>
+            <l>The worlde was firſt y framd,</l>
+            <l>Who lent vs life, as nature hight,</l>
+            <l>Vnſpotted and vnsteande,</l>
+            <l>If then from age to age, encreaſe</l>
+            <l>Of vice, had entred in</l>
+            <l>To humain hartes, and rowted nowght</l>
+            <l>But rage of cancred ſinne,</l>
+            <l>Then longe to fore, shold extreme wrath</l>
+            <l>Of malice and of might,</l>
+            <l>Surmonted al, and wee haue led</l>
+            <l>Our lives in ſineful plight:</l>
+            <l>But ſence we ſee, ech ſort of men</l>
+            <l>In Sondrie place and Ile,</l>
+            <l>Some walke as in a vertuous way,</l>
+            <l>And ſome doo live but vile,</l>
+            <l>We owght, and must confeſſe by force,</l>
+            <l>That this difformed vice,</l>
+            <l>Owght not to bost of victorie,</l>
+            <l>But as by fowle ſurpriſe</l>
+            <pb facs="tcp:183896:6"/>
+            <l>Purſewes that trade, that she enioyes</l>
+            <l>That day when man is cladd,</l>
+            <l>With vertues and vith vices robes</l>
+            <l>In habit good or bad.</l>
+            <l>Ne yet vertew it ſelfe, do owght</l>
+            <l>Augment her gladſome bandes,</l>
+            <l>If she had but encreaſt eftſonnes,</l>
+            <l>Her fame with heauid vp handes,</l>
+            <l>Had ſtrecht vnto the tipp of gloor,</l>
+            <l>And ech thinge shoold accourre,</l>
+            <l>By perfit meanes to golden happe,</l>
+            <l>Which preſent we abhorre.</l>
+            <l>But as it ſemes to Royal ſtates,</l>
+            <l>And to ther pompeus trayne,</l>
+            <l>And manners eke, throughe tract of yeares,</l>
+            <l>We ſee it thus remayne.</l>
+            <l>For ſometyme vertue beares à ſale,</l>
+            <l>And ſometyme vice aboundes,</l>
+            <l>Thone erectes hym ſelfe, with force,</l>
+            <l>The other ſinckes and drowndes:</l>
+            <l>Rebayted thus, rechaſt with might,</l>
+            <l>The painful minde applyes,</l>
+            <l>Leſt that, with in this ſineful woorld,</l>
+            <l>Encreaſe of vice arriſe.</l>
+            <l>It pleaſed thus, the puiſſant god,</l>
+            <l>To enterchaunge our might,</l>
+            <pb facs="tcp:183896:6"/>
+            <l>And ſuffer man, within the lap,</l>
+            <l>Of good and bad to light.</l>
+            <l>As dooth the painful pilot oft</l>
+            <l>Conduct his craſed boate,</l>
+            <l>In bitter ſtorme, and quiet calme,</l>
+            <l>Twene hap and happles loate.</l>
+            <l>(Thou Quene) that from thie ſappie wittes,</l>
+            <l>Doth shake of ignoraunce,</l>
+            <l>And redes and heares attentiuely</l>
+            <l>Our Martial feates of Fraunce,</l>
+            <l>Thow knoweſt, and canſt fulwel decerne</l>
+            <l>Beholdinge our debate,</l>
+            <l>The difference of eche tyme forpast,</l>
+            <l>And of our preſent ſtate.</l>
+            <l>To write of kinges, ther maners eke</l>
+            <l>In blood ſometyme embrewde,</l>
+            <l>And ſome vnſpotted and vnſteande,</l>
+            <l>That lyud with fame purſewde.</l>
+            <l>My hande doth shake, my feble pen</l>
+            <l>Is not in perfit plight,</l>
+            <l>My Muſes all do maſe to ſee</l>
+            <l>The fruites of dire deſpite.</l>
+            <l>Ambition doth with thirſtie throate,</l>
+            <l>And wide deuouringe pawe,</l>
+            <l>Stirre vp à thowſand ſtrifes and moo</l>
+            <l>Withowt respect of lawe:</l>
+            <pb facs="tcp:183896:7"/>
+            <l>Some one are lame of wit an skil,</l>
+            <l>And ſome with reaſon flowes,</l>
+            <l>And ſome of feble hart agayne</l>
+            <l>Ther nedeful cauſe foreſlowes.</l>
+            <l>As princes do profeſſe and are</l>
+            <l>So ſubiectes do encline,</l>
+            <l>For princes are a paterne preſt</l>
+            <l>
+               <g ref="char:V">Ʋ</g>nto ther peoples eyen.</l>
+            <l>It then behoues in tender age,</l>
+            <l>For to enstruct eche kinge,</l>
+            <l>How with advice he may conduct,</l>
+            <l>And gouerne euery thinge:</l>
+            <l>Even from his cradels fyrst he owght,</l>
+            <l>To haue before his eyes,</l>
+            <l>The feare of God, his erlie ſcourge,</l>
+            <l>That through miſorders riſe.</l>
+            <l>And eke he owght ſo wel prouide,</l>
+            <l>And ſo ordaine and way,</l>
+            <l>The trewe and perfit lawe, that none</l>
+            <l>Do erre or runne astraye,</l>
+            <l>By ſciſme or by pernicious ſect,</l>
+            <l>By falſe or forgd deviſe,</l>
+            <l>That intricates nowght els but dowbtes,</l>
+            <l>By wicked mannes ſurmiſe.</l>
+            <l>
+               <hi>MADAME</hi> alas I wayle to ſee</l>
+            <l>The clowdy bitter ſtorme,</l>
+            <pb facs="tcp:183896:7"/>
+            <l>That threatens Fraunce, ſuch wrackes of woos,</l>
+            <l>By wynters wrathe y torne.</l>
+            <l>The flaggy ſnowes, the dampiſhé mystes,</l>
+            <l>The furye of the ſkyes,</l>
+            <l>The bowſtiours windes doo woorcke the ſeas</l>
+            <l>And fominge ſurges riſe.</l>
+            <l>And nowe the ſtarres, the guidinge twynnes,</l>
+            <l>Diſdaynes ther gladſome light,</l>
+            <l>Stand stifflye <hi>(MADAME)</hi> to the ſterne,</l>
+            <l>To guide the barcke out right.</l>
+            <l>In mawger of the heydeous wyndes,</l>
+            <l>And rough malicious ſtorme,</l>
+            <l>Conduct to harbor man and mate</l>
+            <l>In ſhipwracke thus y torne.</l>
+            <l>Whole Fraunce with folded handes requires,</l>
+            <l>An thryſe requires thy meane,</l>
+            <l>Our ſillye state (a pray to ſuche</l>
+            <l>As ſcorne our noble reigne)</l>
+            <l>That thou wilt hast that happie meane,</l>
+            <l>That may thoſe evels redreſſe,</l>
+            <l>And by thy right and might appeaſe,</l>
+            <l>Thes miſcheffes more and leſſe.</l>
+            <l>The Royal pride of haughtie ſeate,</l>
+            <l>The pompe of princely law,</l>
+            <l>That quiet held the mace of might,</l>
+            <l>And regal ſwoorde of awe,</l>
+            <pb facs="tcp:183896:8"/>
+            <l>In boſome of the heauenly light,</l>
+            <l>What may their ſowles now ſay?</l>
+            <l>Yea what may they that shrowded are</l>
+            <l>In cowche and tombe of clay?</l>
+            <l>VVhat may the Royal <hi>PHARAMOVND</hi>
+            </l>
+            <l>And <hi>CLODIVS</hi> inſigne?</l>
+            <l>What may proude <hi>CHARLES,</hi> kinge <hi>PIPIN</hi> eke,</l>
+            <l>And <hi>LEWIS</hi> of that tyme?</l>
+            <l>VVhat maye <hi>CLOWIS</hi> in Armer clad</l>
+            <l>And Martial <hi>MARTEL</hi> ſay?</l>
+            <l>That yerſt whythe prudent pollecye,</l>
+            <l>Did raigne and rule alwaye.</l>
+            <l>That whithe there valiant Armes ſtil ſought</l>
+            <l>For to inlarge oure ſtate,</l>
+            <l>Ye firſt found meanes by conqueſte great,</l>
+            <l>To gaine this fertel ſeate.</l>
+            <l>VVhere in theire ſtateley goulden raignes</l>
+            <l>Of warlike Gaules we reade,</l>
+            <l>And howe wythe Armed men were ſeen</l>
+            <l>The barren feildes ouer ſpreade.</l>
+            <l>Not thus by Civell ſawage warrs</l>
+            <l>Oure ſtate to ouer tourné,</l>
+            <l>But ſought by rigor of the ſwourde,</l>
+            <l>Our luſtye fame to fourme.</l>
+            <l>Imagen that you heare the skrikes,</l>
+            <l>That echo es to the skies</l>
+            <pb facs="tcp:183896:8" rendition="simple:additions"/>
+            <l>And ſo redoundes from heigh againe</l>
+            <l>To yearthe wythe dowleful cryes:</l>
+            <l>VVhat may our foremer fathers ſaye?</l>
+            <l>And luſtie men at armes:</l>
+            <l>That in theeſe conqueſtes perrilous,</l>
+            <l>Receyvd theire mortall harmes?</l>
+            <l>And died: to effraunchiſe Fraunce,</l>
+            <l>VVith longe and yerkeſome toyles,</l>
+            <l>To ſee our ſelfes wythe Civell ſwourd,</l>
+            <l>Diſtroye oure natiue Soyles.</l>
+            <l>They may repyne and yeke repent</l>
+            <l>Theire lotheſome blouddie broiles:</l>
+            <l>Theire quarrels and theire conqueſts thus</l>
+            <l>Subdewed wythe warlike toylis</l>
+            <l>For ſouche a people thus diſtroaght,</l>
+            <l>For ſouche diuided ſtrife,</l>
+            <l>That looſethe while they myght inioye</l>
+            <l>A shore of happie leife,</l>
+            <l>A fructeful ſoyle a fertel lande,</l>
+            <l>That thou of <hi>BRVTVS</hi> ſource</l>
+            <l>VVhere fominge ſeas on loftie ſides</l>
+            <l>Dothe beat wyth rage of force,</l>
+            <l>And drinckes vpon Thamaſis ſpringes.</l>
+            <l>And alſo ou blacke Moorey,</l>
+            <l>That in the weſterne waues do live,</l>
+            <l>And buylde on Libicks shores,</l>
+            <pb facs="tcp:183896:9"/>
+            <l>Fearinge the flames of Phaëton</l>
+            <l>Declininge on thy head:</l>
+            <l>And thow proud Prince of poumpus traine,</l>
+            <l>That confines one oure ſyde,</l>
+            <l>And thou prowde Goate to Armour preſt</l>
+            <l>That prowes ſtriues to wynne,</l>
+            <l>VVho feeles the Northen coulde ſome tyme,</l>
+            <l>One roughe and riueled skin:</l>
+            <l>By Martial feates of glittering Armes</l>
+            <l>Ne yet by blouddye fight,</l>
+            <l>Could neuer daunt or tame by hand</l>
+            <l>The <hi>GAVLES</hi> of warlike might.</l>
+            <l>The Axe of hardnid ſtele y wrought,</l>
+            <l>And quyck of cvt y framd</l>
+            <l>Makes oft the labour eaſier,</l>
+            <l>
+               <g ref="char:V">Ʋ</g>nto the woorke mans hand.</l>
+            <l>And warlike Fraunce, yf sharpe of witt,</l>
+            <l>And prudent pollecie,</l>
+            <l>Ought nowe to quicken wythe there force</l>
+            <l>The dymneſe of the eye:</l>
+            <l>And by theire labour ſo reduce</l>
+            <l>Theire wealthe to gladſome ſtats</l>
+            <l>And to the hatchet heow we ſee</l>
+            <l>The tauleſt okes abats.</l>
+            <l>VVhoſe weale no raginge armes could daunt</l>
+            <l>Nor threat of forraine foo,</l>
+            <pb facs="tcp:183896:9"/>
+            <l>Them ſelfs whith bloudye <hi>CYVEL</hi> knyfe,</l>
+            <l>Now ſeekes to ouerthrow.</l>
+            <l>So was ſtronge <hi>AIAX</hi> brought vnto</l>
+            <l>His baleful blowdie end,</l>
+            <l>VVhilſt throughe his corſe, his brutishe hand,</l>
+            <l>The ſauage knyfe did ſend:</l>
+            <l>And <hi>ROME</hi> that wondred longe eache ſtate,</l>
+            <l>(A Monarke built of pryd,)</l>
+            <l>VVho from Appollos rvddy bed,</l>
+            <l>
+               <g ref="char:V">Ʋ</g>nto the weſterne ſide,</l>
+            <l>His <hi>EMPIRE</hi> whithe his largeſt skirtts,</l>
+            <l>And boundes yſtretched farr,</l>
+            <l>Reuoltinge once, by <hi>CYVEL</hi> ſworde,</l>
+            <l>Decayed by countrey warr.</l>
+            <l>Yf theis be hateful preſidents,</l>
+            <l>By plainteful haſſerds thral,</l>
+            <l>And wee not warnd how to beware,</l>
+            <l>To read of others fall?</l>
+            <l>Ought not we to be wayle oure wronges,</l>
+            <l>That in a cloud of wo,</l>
+            <l>Oure eyes whithe blyndnes ſo forecaſte,</l>
+            <l>VVe can diſcerne no fo?</l>
+            <l>That preſent now to plonge of wracke,</l>
+            <l>Dothe threaten yeke decaye,</l>
+            <l>And we headlonge in myſerye,</l>
+            <l>Can not eſchew the waye.</l>
+            <pb facs="tcp:183896:10"/>
+            <l>The forraigne Prince whithe warlike ſwourd,</l>
+            <l>VVhoſe wars are plaine to vs,</l>
+            <l>Doo pittie oure abſourdities,</l>
+            <l>And ſtate tormented thus,</l>
+            <l>That blount of wyt we feele not now,</l>
+            <l>How oure Dyſaſtre tournes,</l>
+            <l>And that we ſee, and wil not ſee,</l>
+            <l>How wayward fortune spornes.</l>
+            <l>Of Longe record of antique fame,</l>
+            <l>Manye haue here tofore,</l>
+            <l>By thretninge and by fearful ſignes,</l>
+            <l>Preſaged leſſe and more.</l>
+            <l>Namelye withe in ſoche yeares and dayes,</l>
+            <l>That headdy franticke <hi>GAWLES,</hi>
+            </l>
+            <l>Whithe <hi>CYVEL</hi> ſhocke and natiue ſwourd,</l>
+            <l>Should ſhake bothe towne and walles:</l>
+            <l>And that of filthie mourders ofte,</l>
+            <l>Oure trowbeled estate,</l>
+            <l>Should render vs of al estates,</l>
+            <l>The most vnfortunate.</l>
+            <l>VVhile like to blowndred crowes in mystes,</l>
+            <l>VVe headlonge ronne to Armes,</l>
+            <l>Not knowinge how to ſhunn or ſhifte,</l>
+            <l>The ſequel of oure harmes.</l>
+            <l>An to declare oure ſelfs more wyſe,</l>
+            <l>VVe neuer gaue no truſte,</l>
+            <pb facs="tcp:183896:10"/>
+            <l>To trewe precepts nor ruled, oure lyues,</l>
+            <l>But euer to oure luſt.</l>
+            <l>But obſtinate and blynde as were</l>
+            <l>The <hi>HEBRVES</hi> of foretyme,</l>
+            <l>That truſted not the Sacred wordes,</l>
+            <l>Of thoſe whiche did deuine.</l>
+            <l>The godds that hauinge ſome reſpecte,</l>
+            <l>Vnto the stray ned ſort,</l>
+            <l>Sent in oure tyme ſoche wonders ofte,</l>
+            <l>That might oure lyfes exhorte:</l>
+            <l>VVhithe waterie eyes for to repent,</l>
+            <l>And wayle our wycked ſyn,</l>
+            <l>And to repaire the breache wile wee,</l>
+            <l>A better life be gin.</l>
+            <l>The Skies whithe showers did wayle oure wrake,</l>
+            <l>Be fore oure tourmoyles were,</l>
+            <l>The Commetts from the Esterne Syde,</l>
+            <l>VVhithe threates did foule appere,</l>
+            <l>And <hi>SEINE</hi> whithe ouer flowinge waves,</l>
+            <l>Of far vnwonted force,</l>
+            <l>Did denotate, and we might deme,</l>
+            <l>To <hi>PARIS</hi> ſome devorſe.</l>
+            <l>The waters in theire ſwelling wrathe,</l>
+            <l>As though whithe fominge fume,</l>
+            <l>They woulde by mightie ouerflow,</l>
+            <l>The ſynful worlde conſume:</l>
+            <pb facs="tcp:183896:11"/>
+            <l>That heauen and earthe did as it weare,</l>
+            <l>Threaten oure Royall Realme,</l>
+            <l>A daye of bytter ſharpe reuenge,</l>
+            <l>And Ruine of the ſame.</l>
+            <l>O thou that writeſt of warlike workes,</l>
+            <l>VVhithe not diſſemblinge pen,</l>
+            <l>Depaint at lengthe oure monſtrous age,</l>
+            <l>To feare and warne all men:</l>
+            <l>Recompte vnto oure tender youthe,</l>
+            <l>Oure fatalle myſerye,</l>
+            <l>That readinge they may yeke bewayle,</l>
+            <l>Oure ſtate whithe watery eye,</l>
+            <l>That they may lyue and yeke beware,</l>
+            <l>Of theyre forefathers ſynn,</l>
+            <l>Leſt they by headlonge error do,</l>
+            <l>Right to ſoche evels fall in.</l>
+            <l>VVythe what vnſhamefaſt face mayeſt thou,</l>
+            <l>O <g ref="char:V">Ʋ</g>yle tormented lyfe,</l>
+            <l>Be hold the ſtorie of oure tyme,</l>
+            <l>In thys myshapen ſtrife:</l>
+            <l>In Readinge that oure Septer hathe,</l>
+            <l>And Kinglie famus raſe,</l>
+            <l>From firſt ſo manye yeares to forne,</l>
+            <l>Indured whithe glad increaſe:</l>
+            <l>And nowe runues raſhlye to rvine,</l>
+            <l>By rage of martiall might,</l>
+            <pb facs="tcp:183896:11"/>
+            <l>Even as the ſtrongeſt rocke is forſt,</l>
+            <l>From heighe to low to light.</l>
+            <l>The ſtorie wytethe howe <hi>IOVE</hi> ſome tyme,</l>
+            <l>In rage whithe hewmaine raſe,</l>
+            <l>That would by curious meanes invent,</l>
+            <l>His godhead to diſplace:</l>
+            <l>And ſoughte to know his deuine might,</l>
+            <l>VVhithe in his Sacred Ile,</l>
+            <l>VVhiche no man might to enterpriſe,</l>
+            <l>That are prophane and <g ref="char:V">Ʋ</g>ile,</l>
+            <l>One day by pricke of youthe the god,</l>
+            <l>From heigh ſeate would remoue,</l>
+            <l>To finde owt dame Preſumption,</l>
+            <l>To entertayne in love.</l>
+            <l>VVhere at the foote of heigh <hi>OLIMPE,</hi>
+            </l>
+            <l>Sounde ſleepinge where ſhe laye,</l>
+            <l>Refte from her tender lippes a kiſſe,</l>
+            <l>And efteſones ſtale a waye.</l>
+            <l>VVhere whithe the prophaine god conceaud,</l>
+            <l>Souche rancour in his mynd,</l>
+            <l>That all his meanes was for reuenge,</l>
+            <l>
+               <g ref="char:V">Ʋ</g>pon the heumaine kynd,</l>
+            <l>VVhere at the heauens was wrothe to ſee,</l>
+            <l>The vile laſciuous god,</l>
+            <l>And ſo agreed that he ſhoulde fele,</l>
+            <l>The ſcourge and ſmartinge rod,</l>
+            <pb facs="tcp:183896:12"/>
+            <l>Refte than of Sacred godhead quite,</l>
+            <l>By ſtrange tranſformed meane,</l>
+            <l>From ryueled aged hyde became,</l>
+            <l>To tender ſkyn agayne,</l>
+            <l>From fleetinge youthe to manlye ſtate,</l>
+            <l>As he ſtept forwardes ſtill,</l>
+            <l>Whythe oute reſtraynt he wrought a meane,</l>
+            <l>That might ſuccede his will,</l>
+            <l>What fancye framed in franticke braine,</l>
+            <l>What youthe vnſemelye ment,</l>
+            <l>What thinge prophane and vile might be,</l>
+            <l>That he not eaſelye hent,</l>
+            <l>Poufte vp whithe peacokes pride as dyd,</l>
+            <l>His beaſtlye raigne begyn,</l>
+            <l>So dyd his mounſtrous ſhape declare,</l>
+            <l>The forme of ouglye ſyn,</l>
+            <l>From forth his fyrie eyes brouſt out,</l>
+            <l>A ſtrange deformed flame,</l>
+            <l>And noughte but fraud and fycle baytes,</l>
+            <l>Dyd harber in his braine,</l>
+            <l>In poyſoned hart was nourisht nowghtt,</l>
+            <l>But lotheſome loue deuyſed,</l>
+            <l>Vnder his habit raggd and rent,</l>
+            <l>
+               <hi>AMBICION</hi> ſat diſguiſed,</l>
+            <l>Whithe twyned looke yet delycate,</l>
+            <l>As is the <hi>SERENS</hi> face,</l>
+            <pb facs="tcp:183896:12"/>
+            <l>And yeke a dulced tounge enfefte,</l>
+            <l>Whithe prowde and paynted grace,</l>
+            <l>His winges were lightelye borne, his feete,</l>
+            <l>Weere nether fleshe nor bone,</l>
+            <l>A shadow but, that non may heere,</l>
+            <l>VVhen he was fled and gone.</l>
+            <l>In Sacred ſcooles the ſubtell god,</l>
+            <l>Fonde meanes to lodge and dwell,</l>
+            <l>Onlye to blunt and blynd there wyttes,</l>
+            <l>VVhithe deuine arts that mell,</l>
+            <l>And to that ende to plunge in wo,</l>
+            <l>Theire curious wytts that ſoughte,</l>
+            <l>As arrogant the heauens to clyme,</l>
+            <l>To knowe eyche Deuine thoughte.</l>
+            <l>This fowle tranſformed <hi>IOVE</hi> that thus,</l>
+            <l>Becamme prophane ad vile,</l>
+            <l>Hathe brought this monsterous exchaunge,</l>
+            <l>And vprores in this Iſle,</l>
+            <l>Demaundinge now to nedie Fraunce,</l>
+            <l>From <hi>SAVOYE</hi> ſome Svpplie,</l>
+            <l>From <hi>SPAYNE</hi> and from eche Chriſtian foo,</l>
+            <l>That nere confyning lie,</l>
+            <l>And alſo of the man of warre,</l>
+            <l>That preste to ſound of dromme,</l>
+            <l>Drinckes of the flowd of <hi>DANVBY,</hi>
+            </l>
+            <l>VVhithe channel deepe that ronne,</l>
+            <pb facs="tcp:183896:13"/>
+            <l>And of the ſylver ſtreames of <hi>RHEYNE,</hi>
+            </l>
+            <l>VVhithe lustie ſydes hempt in,</l>
+            <l>VVho dothe bestride the barbed horſe,</l>
+            <l>His Martiall fame to wyn.</l>
+            <l>In this deformed change the ſonne,</l>
+            <l>The fathers feare white ſtode,</l>
+            <l>The brother yeke whithe ſtayned hand,</l>
+            <l>Ybaiths in brothers bloud:</l>
+            <l>Yea Nature clene degenerates,</l>
+            <l>In weake and femall kynd,</l>
+            <l>And glowinge ſpite by pride conceales,</l>
+            <l>The rancor of the mynd,</l>
+            <l>Extracte from howſe of Natiue lyne,</l>
+            <l>Bereaues the others life.</l>
+            <l>The ſeruile man in maisters bloud,</l>
+            <l>VVhithe ſtroke of stayned knyfe,</l>
+            <l>Imbrues his hands, (O bluddie b<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>le)</l>
+            <l>O Nature foule confuſed:</l>
+            <l>The man contract in bandes we ſee,</l>
+            <l>In Nvptiall bed refuſed,</l>
+            <l>The fruct of foes, by fraude of frendes,</l>
+            <l>He maye pervſe that lust,</l>
+            <l>How ferme is fraude, how fraile is faythe,</l>
+            <l>How tycklie now is trust,</l>
+            <l>How as from <hi>HYDRAIS</hi> head intrudes,</l>
+            <l>The plumes of peviſhe pride,</l>
+            <pb facs="tcp:183896:13"/>
+            <l>And how whithe duble faced wronge,</l>
+            <l>Tymes truthe is ſloly tried.</l>
+            <l>The infant from his cradel crept,</l>
+            <l>Deuorſt from parents awe,</l>
+            <l>Standes vp and ſtifflye dothe diſpute,</l>
+            <l>Of right and Sacred lawe.</l>
+            <l>And euerie thinge do cleane declyne,</l>
+            <l>Whithe out reſtraint of might,</l>
+            <l>Abandond are all <hi>CYVEL</hi> meanes,</l>
+            <l>Of polecye and right.</l>
+            <l>In this deformed change eche crafte,</l>
+            <l>By painefull handes ſuſtaynd,</l>
+            <l>VVho rept his fruct by labour ſweet,</l>
+            <l>Is now no more mayntaind.</l>
+            <l>The herdeman dothe (diſmayed man,)</l>
+            <l>Refuſe his ſimple charge,</l>
+            <l>The advocate hathe now no meane,</l>
+            <l>To wreſt his law at large.</l>
+            <l>The ſteerman leaues his floting barke,</l>
+            <l>To drenche the ſeas a lone,</l>
+            <l>The trafique of the ſpendinge hand,</l>
+            <l>Is now reiect and gone.</l>
+            <l>By this miſhapen Monſter eke,</l>
+            <l>The wiſe and ware deuiſe,</l>
+            <l>Is by his malice cleane tranſformed,</l>
+            <l>To lewd and fylthie vyce.</l>
+            <pb facs="tcp:183896:14"/>
+            <l>The tender youthe in learned ſcooles,</l>
+            <l>Traind vp to expert yeares,</l>
+            <l>Corrups his fraile and tender age,</l>
+            <l>VVhithe fonde and foule deſiers.</l>
+            <l>The vileſt crafte do yeke tranſforme,</l>
+            <l>His pick axe and his ſpade,</l>
+            <l>His pitcheforke to a pike and yeke,</l>
+            <l>His hatchet to a blade.</l>
+            <l>And wyll no more whithe togge of ploughe,</l>
+            <l>Teare vp the ſlatie ſoyles,</l>
+            <l>But in a ſword begert pourſhewes,</l>
+            <l>This frantycke Cyvel broyles.</l>
+            <l>Mute is the mouthe that would controle,</l>
+            <l>That Error nowe ſubornes,</l>
+            <l>There blinde and brutiſhe appetits,</l>
+            <l>No Ivstice now reformes.</l>
+            <l>To foule and vile lycencious vice,</l>
+            <l>Now libertie permitts,</l>
+            <l>Diſorder and deformed will,</l>
+            <l>In open ivdgement ſitts.</l>
+            <l>Now eche man proles for pryvate gaine,</l>
+            <l>And gredy lust to wrenges,</l>
+            <l>The maſsie gaines of goulden ſommes,</l>
+            <l>That ſoche diſorder bringes.</l>
+            <l>In this blacke tyme the ſtarres do warre,</l>
+            <l>The heauens do frowne at this,</l>
+            <pb facs="tcp:183896:14"/>
+            <l>To ſee this Chaos vpon earthe,</l>
+            <l>VVhere forme and faſcion is.</l>
+            <l>Vpon this dolefull ſtage ſcarſe did,</l>
+            <l>The prologue once begone,</l>
+            <l>Before oure woees vnladed weere,</l>
+            <l>By conductes of the eyen,</l>
+            <l>Sence that blacke tyme of lateful warres,</l>
+            <l>And hateful myſerie,</l>
+            <l>VVee haue not ſvpt vp all aure ſobbes,</l>
+            <l>Oure eyes be ſcarcelye drye:</l>
+            <l>Attacht of new vnhappie tyme,</l>
+            <l>From worſe to worſe we fall,</l>
+            <l>Eche reſteful place, Eche quiet ſeate,</l>
+            <l>Of Cyttye, Towne and wall,</l>
+            <l>Hathe whithe foule breache of promiſe heighe</l>
+            <l>In triall of there truthe,</l>
+            <l>Revolted and to bluddye Armes,</l>
+            <l>Theeſe Cyvelle ſtormes pourſhewethe.</l>
+            <l>Forfyerie Mars hathe this decreed,</l>
+            <l>In wrathe and raginge moode,</l>
+            <l>To power downe theeſe plages on Fraunce,</l>
+            <l>Beſtaynd whithe Cyvell bludde:</l>
+            <l>I wrast whithe wretched cares and woes,</l>
+            <l>Of ſtormye wynter threates,</l>
+            <l>VVee fleete in waues of warlike ſourge,</l>
+            <l>And craſed ſydes that beates.</l>
+            <pb facs="tcp:183896:15"/>
+            <l>As dothe the barke in ſtubberne blaſtes,</l>
+            <l>Of maſt and mayne berefte,</l>
+            <l>Of marenner of man and mate,</l>
+            <l>And yeake of pylate leafte.</l>
+            <l>The painefull hand of ſkilfull mate,</l>
+            <l>Denies to to holde the helme,</l>
+            <l>In goulfe of playntefull myſerye,</l>
+            <l>Oure ſtate do ouerwhelme:</l>
+            <l>Decayed wytte how blunt art thou?</l>
+            <l>That could not ſee the tyme,</l>
+            <l>VVhen as the fatale Siſters did,</l>
+            <l>Draw fourthe theire vitall twyne,</l>
+            <l>And left the ſoche tryumphant yeares,</l>
+            <l>Of longe and happie age,</l>
+            <l>As in thy boſome neuer myght,</l>
+            <l>Crepe in ſoche beaſtely rage,</l>
+            <l>Of glowinge ſpite by cruel Armes,</l>
+            <l>To bathe the ſynful handes,</l>
+            <l>In bowells of thye natiue ſhore,</l>
+            <l>That gylteles thee whithe ſtandes.</l>
+            <l>
+               <g ref="char:V">Ʋ</g>nhappye <hi>GAWLES</hi> vnhappye men,</l>
+            <l>And thriſe vnhappye race,</l>
+            <l>That thus diſtraught ſekst to diſtroye,</l>
+            <l>Thy fertell natiue place.</l>
+            <l>Defamed ſword of Regall awe,</l>
+            <l>Bluſhe at thy feeble right,</l>
+            <pb facs="tcp:183896:15"/>
+            <l>Devided thus, decayed art,</l>
+            <l>Of Law and publique myght.</l>
+            <l>
+               <g ref="char:V">Ʋ</g>nhappie ſeate vnhappye ſtate,</l>
+            <l>That now vnſteadye ſtandes,</l>
+            <l>From lofty throne in caſe to fall,</l>
+            <l>In to Ambicions handes.</l>
+            <l>Looke to your proude eſtate you <hi>GAWLES,</hi>
+            </l>
+            <l>You <hi>GAWLES</hi> of ancient name,</l>
+            <l>That neuer ſtaynd whithe ouerthrow,</l>
+            <l>You might conſerue your fame,</l>
+            <l>In quiet forme, as yerſt to fore,</l>
+            <l>Youre fathers in theire tyme,</l>
+            <l>VVho longe mayntaynd a quyet reigne,</l>
+            <l>From all vnſhamefaaſt cryme:</l>
+            <l>From head longe broyles, from Cyvell woundes,</l>
+            <l>From ſuche defamed warre,</l>
+            <l>That in this age (vnhappie tyme)</l>
+            <l>VVe ſee apparent are.</l>
+            <l>Of happie and of quiet Lyfe,</l>
+            <l>VVe ſee the glaſe ronne out,</l>
+            <l>The wrackes appeares from clowdye ſkye,</l>
+            <l>Now <hi>MADAME</hi> looke a bout:</l>
+            <l>Make cleare a bourde, in ſtormye ſeas</l>
+            <l>The maſter ſhowes his ſkill,</l>
+            <l>Reforme theſe franticke braines that thus,</l>
+            <l>Do ronne on headlonge will.</l>
+            <pb facs="tcp:183896:16"/>
+            <l>Restrayne whithe ſtedy raignes theſe men,</l>
+            <l>That whithe vnbrideled heade,</l>
+            <l>Haſte to the ſtage of fyerie armes,</l>
+            <l>Theire natiue blud to ſheed.</l>
+            <l>Reſpect the haſſarde of oure ſtate,</l>
+            <l>Respect oure preſent Raigne,</l>
+            <l>Appeaſe this quarell and debate,</l>
+            <l>That mangles thus our fame.</l>
+            <l>Redreſſe our vile diſmembred age,</l>
+            <l>Of moſt deformed life,</l>
+            <l>Seeke how to reconcyle theſe warres,</l>
+            <l>Of vile and hatefull ſtrife.</l>
+            <l>Seeke to avoyde thys fowle Eclips,</l>
+            <l>Of warr and Cyuell broyles,</l>
+            <l>Seeke to be nvnme the ſynfull handes,</l>
+            <l>That in theſe miſchifs moyles.</l>
+            <l>Seeke howe to cleere the clowdye threats,</l>
+            <l>Of this deformed ſonnes,</l>
+            <l>Seeke to repare this curliſh breatche,</l>
+            <l>In ſauage harts bogon.</l>
+            <l>Reforme whithe heedful care oure ſtate,</l>
+            <l>That thus tranſfigured are,</l>
+            <l>Respecte ô <hi>QVENE</hi> this ſequell now,</l>
+            <l>Of this vnwonted warre.</l>
+            <l>Repaire ô <hi>QVENE</hi> whith tymely care,</l>
+            <l>Oure wealthe now ouerthrone,</l>
+            <pb facs="tcp:183896:16"/>
+            <l>Some good hand gripe the ſtable healme,</l>
+            <l>To ſhipwracke as we ronne.</l>
+            <l>Our plaintefull ſtate in throwes of wo,</l>
+            <l>In haſſard of decaye,</l>
+            <l>Calls helpe of none but thee (thou <hi>QVENE</hi>)</l>
+            <l>That bearethe now the ſwaye.</l>
+            <l>The tender yeares of pompous kinge,</l>
+            <l>And proude vnſtayned ſeate,</l>
+            <l>That neuer yelded to no calme,</l>
+            <l>Nor puſſhe of courſed fate,</l>
+            <l>Aſsiſte nowe whith thy ſage advice,</l>
+            <l>Aſsiſt whithe pollecye,</l>
+            <l>Aſsist oure Realme leſt worne to wracke,</l>
+            <l>VVhithe wringed handes we crye,</l>
+            <l>
+               <g ref="char:V">Ʋ</g>nhappy raigne vnhappie life,</l>
+            <l>Vnhappie eke the wyght,</l>
+            <l>
+               <g ref="char:V">Ʋ</g>nhappie eke a thouſand tymes,</l>
+            <l>The rvle of female might.</l>
+            <l>Let not the earthe be ſtaynd whith blud,</l>
+            <l>In plonge of hatefull harmes,</l>
+            <l>Exclayme and whithe outraging ſkrikes,</l>
+            <l>Complame of Cyvell armes.</l>
+            <l>VVhoſe hateful and diſpleſant yoke,</l>
+            <l>Of preſant plage we feele,</l>
+            <l>Diſarminge vs vnhappie <hi>GAWLES,</hi>
+            </l>
+            <l>Of all oure wonted weele.</l>
+            <pb facs="tcp:183896:17"/>
+            <l>Of all oure proud and pompous prayſe,</l>
+            <l>Of all oure antique fame,</l>
+            <l>Our honor flets, the glorie ebbes,</l>
+            <l>Of our Tryumphant name:</l>
+            <l>VVhat longe tofore in foremer age,</l>
+            <l>Our fathers fame hathe won,</l>
+            <l>Vnhappie we vnhappie <hi>GAWLES,</hi>
+            </l>
+            <l>Vnhappie haue vndon.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="to_the_translator">
+            <head>A ſonnet to the tranſlatour.</head>
+            <l>As Homers ſtreaminge ſource, of ſpringinge head doth flovv</l>
+            <l>In Grekiſhe clouſtred camps, by Troians reard to fame:</l>
+            <l>As Virgils matchinge stile, doth vveaue in ſmothed frame,</l>
+            <l>The peaſed pliant vvoordes, of vvightes that lye ful lovv:</l>
+            <l>So <hi>RONSARDS</hi> blovvminge grafte (from them as you may knovve</l>
+            <l>By ruthful mourners minde) doth vvoordes from parentes fame,</l>
+            <l>VVaylinge vvhith brokken ſeighes the fyerie kinghtes of name,</l>
+            <l>That braue vvhith glitternige ſvvord in fielde to ſmyte the blovv</l>
+            <l>Of dedlye maſsie fiste, (most deu to vvaylful Fraunce)</l>
+            <l>Sent from myld God, that doth vvhich ſplayed armes inhaunce,</l>
+            <l>The laſtinge painful ſcourge, to vvhippe the thanckles flockee.</l>
+            <l>If creed may credit geue, to dyſmalles iudgmentes day,</l>
+            <l>I thincke the ſame hath taught, <hi>IENEY</hi> to outforth bray,</l>
+            <l>An Engliſhe pleaſant phraſe, not far from <hi>RONSARDS</hi> ſtocke.</l>
+            <closer>
+               <signed>Ferd: Fyldinge.</signed>
+            </closer>
+         </div>
+         <div xml:lang="lat" type="half_title">
+            <pb facs="tcp:183896:17"/>
+            <p>ELEGIA DANIELIS ROGERII ALBI<g ref="char:EOLhyphen"/>MONTII ANGLI, DE PERTVR<g ref="char:EOLhyphen"/>BATA CHRISTIANI ORBIS REPVBLICA, AD ILLVSTREM VIRVM, HENRICVM NOR<g ref="char:EOLhyphen"/>RICIVM, AVRATAE MILITIAE EQVI<g ref="char:EOLhyphen"/>TEM, SERENISS. ET CHRISTIANISS. PRINCIPIS, D. ELIZABETHAE, ANGLIAE, <hi>&amp;c.</hi> REGINAE, AD KAROLVM NONVM GALLIAE REGEM, ORATOREM.</p>
+         </div>
+         <div xml:lang="lat" type="to_Henry_Norreys">
+            <pb facs="tcp:183896:18"/>
+            <head>AD ILLVSTREM VIRVM HEN<g ref="char:EOLhyphen"/>RICVM NORRICIVM.</head>
+            <l>Triſtia conueniunt ſi carmina triſtibus horis,</l>
+            <l>Tempore nec luctus, ſi dare laeta decet:</l>
+            <l>Haec ea, NORRICI, quae triſtia triſtibus horis</l>
+            <l>Offero iudicio ſcripta legenda tuo,</l>
+            <l>Non ingrata tibi ſpero ventura legenti,</l>
+            <l>Defleo dum triſti triſtia fata lyra.</l>
+            <l>Adde quòd eſt aequum cum flenti flere piúmque,</l>
+            <l>Publicus &amp; tangit pectora iuncta dolor.</l>
+            <l>Ipſa etiam in lacrumas dum lumina ſoluimus aegras,</l>
+            <l>Egeritur, gemitu fit quoque cura minor.</l>
+            <l>Hinc tibi, credo, tui IENEI Muſa probatur,</l>
+            <l>Quòd queritur patria publica damna cheli.</l>
+            <l>Quòd ſi noſtra etiam poterunt lugubria, puris</l>
+            <l>Auribus, indicio &amp; complacuiſſe tuo,</l>
+            <l>Tempora quàm praeſtant genialia triſtibus horis,</l>
+            <l>Temporibus laetis tam meliora leges.</l>
+         </div>
+         <div xml:lang="lat" type="elegy">
+            <pb facs="tcp:183896:18"/>
+            <head>ELEGIA, Ad illuſtrem virum, Henricum Norricium, Au<g ref="char:EOLhyphen"/>ratae militiae Equitem, Sereniſs. &amp; Chriſtianiſs. Principis, D. Elizabethae, Angliae, &amp;c. Reginae, ad Karolum nonum Galliae Regem, Oratorem.</head>
+            <l>
+               <seg rend="decorInit">M</seg>Iſſus es Orator Galli dum Regis ad aulam,</l>
+            <l>
+               <hi>NORRICI,</hi> &amp; patriae conſulis vſque tuae,</l>
+            <l>Ecquid vt eſt omnis facies triſtiſſima mundi</l>
+            <l>Cernis, &amp; vt praeceps in ſua damna ruat?</l>
+            <l>Cernis, &amp; haud melius te regna ruentia quiſquam</l>
+            <l>Proſpicit, incertas cernis adeſſe vices.</l>
+            <l>Nam tibi non tantùm clarorum ſtripe parentum</l>
+            <l>Contigit, &amp; naſci nobiliore domo:</l>
+            <l>Sed quoque prudentes tribuerunt numina ſenſus,</l>
+            <l>Abdita queis aliis quaeque videre ſoles.</l>
+            <l>Adde quòd aerumnas praeſens queis angitur orbis,</l>
+            <l>Ipſe etiam lippus, tonſor &amp; ipſe videt.</l>
+            <l>At tua mens cauſas ſenſu praeſagit acuto,</l>
+            <l>Et tibi praeſenti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> conſtat origo mali.</l>
+            <l>Scilicet orb<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> furens toto bacchatur Erinnys,</l>
+            <l>Inſidias, belli ſemina prima, ſerens.</l>
+            <l>Nec fas, nec rata pacta ſinit, verúmque fidémque</l>
+            <l>Tollit, &amp; eſt horum fraúſque dolúſque loco.</l>
+            <l>
+               <g ref="char:V">Ʋ</g>icta iacet pietas, terráſque exoſa profanas,</l>
+            <l>Relligio, coelum regna priora, petit.</l>
+            <l>Ambitióque leuis magnorum pectora Regum,</l>
+            <l>Sollicitans, odij tetra venena ciet.</l>
+            <pb facs="tcp:183896:19"/>
+            <l>Hinc Bellona manus tortis armata flagellis,</l>
+            <l>Accenſis animis cogit ad arma viros.</l>
+            <l>Hinc pauor, hinc luctus, hinc plurima mortis imago</l>
+            <l>Perturbant cunctis gaudia nostra locis.</l>
+            <l>Ergo nec Virgo, nec iam Saturnia regna</l>
+            <l>Longius in terris quas coluêre, vigent.</l>
+            <l>Aurea Pax ceſſit niueos lacerata lacertos,</l>
+            <l>Et Charites terris eripuere fugam.</l>
+            <l>Deliciae<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> hominum Muſae fugêre, nec illas</l>
+            <l>Qui foueat vaſto vix viget orbe locus.</l>
+            <l>Ipſe fides fractáſque lyras abiecit Apollo,</l>
+            <l>Nec iuuat auratam nunc tenuiſſe chelyn,</l>
+            <l>Quin pharetra promens ſua tela, en ſtrenuus arcum,</l>
+            <l>Lunat, vt hac ſola ſe tueatur ope.</l>
+            <l>Omnis amorfugit, lacera Concordia palla,</l>
+            <l>AEthereos petiit venerat vnde tholos.</l>
+            <l>Quàm cuperem Mauors etiam ad ſua regna rediſſet,</l>
+            <l>Eſſet vt à tantis libera terra malis.</l>
+            <l>Ille etenim dextra latè ſua fulmina vibrans,</l>
+            <l>Inficit humano triſte cruore ſolum.</l>
+            <l>Nec pudor integritáſque iuuant, furor omnia miſcet,</l>
+            <l>Martis vbique metus, mortis vbique pauor.</l>
+            <l>Foelices quibus antè datum, meliora videre</l>
+            <l>Saecula, cùm pietas cúmque vigeret amor:</l>
+            <l>Cùm Pax alma domos coleret, nec miles iniquus,</l>
+            <l>Turbaret patrios Marte furente deos.</l>
+            <l>Nunc nec grata dies, noctíſque ingratior vmbra eſt,</l>
+            <l>Felléque vipereo quaelibet hora madet.</l>
+            <pb facs="tcp:183896:19"/>
+            <l>Ecquis enim locus eſt quem non perrupit Erinnys?</l>
+            <l>Quem non ſacrilegi militis arma replent?</l>
+            <l>Perſonat armorum terras fragor horridus omnes,</l>
+            <l>Quaeque parit tellus, ſanguine fota putes.</l>
+            <l>Omnia deuaſtat gens Moſſyneca ſub arcto,</l>
+            <l>Ruſſica qua gelidos Duna pererrat agros,</l>
+            <l>Sarmata bella fremens Henetos inuadit: &amp; Hunos</l>
+            <l>Innumero oppreſſos milite Turca premit.</l>
+            <l>Et ſexennali miſcentes praelia bello,</l>
+            <l>Cimber in exitium triste Gothúſque ruunt.</l>
+            <l>Germaníſque habitans paſſim diſcordia campis,</l>
+            <l>Neſcio quos motus inſidiáſque timet.</l>
+            <l>Belga ſub Hiſpanis queritur noua vincla catenis,</l>
+            <l>Excuterétque iugum ſi daret hora ducem:</l>
+            <l>Quin etiam Mauors diſcordibus implicat armis</l>
+            <l>Illa Calydoniae proxima regna plagae.</l>
+            <l>Quaeque fuit quondam rerum domina Itala tellus,</l>
+            <l>Quàm variis dominis ſeruiat illa vides.</l>
+            <l>At diuiſa ruit plus quam ciuilibus armis,</l>
+            <l>Gallia, &amp; in proprias effera fertur opes.</l>
+            <l>Nec modus vllus adeſt, nullus pudor, omnia legum,</l>
+            <l>Iuráque naturae militis ira premit.</l>
+            <l>Ipſe pater bellum natis indicit, &amp; arma</l>
+            <l>Filius in patris colla verenda gerit.</l>
+            <l>Frater &amp; in fratris diſtringit viſcera ferrum,</l>
+            <l>Quis memoret ſiccis vel legat iſta genis?</l>
+            <l>Illum Caucaſeis prognatum cautibus, horrens</l>
+            <l>Fouit inhumanae &amp; dura papilla lupae.</l>
+            <pb facs="tcp:183896:20"/>
+            <l>Interea fidei ſaeuiſſimus imminet hostis,</l>
+            <l>Et iaculo &amp; ſaeuus fulmine Acinacio.</l>
+            <l>Quis furor eſt, externa vocant dum bella, manúſque</l>
+            <l>Turcica Chriſtiadum dum ſitit vſque necem,</l>
+            <l>In proprios ſaeuire artus, &amp; vulnere mortem</l>
+            <l>Alterno, diris accelerare modis?</l>
+            <l>Tam ſubitò oblita es belli cladíſque prioris</l>
+            <l>Gallia, vt hei rurſus ciuica bella velis?</l>
+            <l>Aſpice quas toto regno circunſpicis arces,</l>
+            <l>Quod de ciuili Marte querantur, habent.</l>
+            <l>Non cernis viduata ſuis tua rura colonis?</l>
+            <l>Oppida diuitiis &amp; spoliata ſuis?</l>
+            <l>Sulphureis quaſſata globis quae moenia quondam</l>
+            <l>Hoſtiles poterant temnere ſalua minas?</l>
+            <l>Squallida praeteritos deplorant rura tumultus,</l>
+            <l>Et Druidum veſtris oſſibus albet ager.</l>
+            <l>Ah! melius purges infectos ſanguine campos,</l>
+            <l>Quàm noua funeſto praelia Marte noues.</l>
+            <l>Facta prius, nondum coijt miſeranda cicatrix,</l>
+            <l>Quid renoues igitur vulnera clade noua?</l>
+            <l>Quiſquis es, es tanti primus qui turbinis author,</l>
+            <l>Te poenae vltrices fata &amp; acerba manent.</l>
+            <l>Triſtia qui populos cogens ad bella quietos,</l>
+            <l>In niueae pugnas relligionis opus.</l>
+            <l>Non ita vis quorum verus ſucceſſor haberi,</l>
+            <l>Induerant populis arma ferenda ſuis.</l>
+            <l>Alma procurantes ſanctae ſed commoda Pacis,</l>
+            <l>Et bene commiſſas hi tuebantur oues.</l>
+            <pb facs="tcp:183896:20"/>
+            <l>Iam video inſtantes, te ſic cogente, ruinas,</l>
+            <l>Sanguine iam video rura madere pio.</l>
+            <l>Forſitan &amp; denſis circundata lilia ſpinis,</l>
+            <l>Tempus adeſt perdant protenus omne decus.</l>
+            <l>Nam quis rebus opem <hi>(NORRICI)</hi> praebeat, orbi</l>
+            <l>Tam deſperato num quis adeſſe queat?</l>
+            <l>Conſilijs nullus cùm ſit locus, irrita vatum</l>
+            <l>Cùm vota, vndoſum per mare ventus agat.</l>
+            <l>Quod niſi certa meam fallant praeſagia mentem,</l>
+            <l>Iam ruimus ſubitò, tu niſi <hi>CHRISTE</hi> iuues.</l>
+            <l>Tu niſi <hi>CHRISTE</hi> iuues, noſtrae qui cauſa ſalutis,</l>
+            <l>His potes auxilio ſolus adeſſe malis.</l>
+            <l>Adſis, at oppreſſis Dux <hi>CHRISTE</hi> ſalutifer adſis,</l>
+            <l>Afflictáſque iuues maxime Pastor oues.</l>
+            <l>Paſtor oues tueare tuas, quas perdere paſtor</l>
+            <l>Qui ferus Auſonia regnat in vrbe, ſtudet.</l>
+            <l>Reſpice nos, tutíque tuae ſub robore dextrae,</l>
+            <l>Da precor aduerſas vincere poſſe manus:</l>
+            <l>Pax redeat, noſtróſque lares tranquilla reuiſat,</l>
+            <l>Et comites, pulſas orbe, reducat ouans.</l>
+            <l>Cana fides redeat, redeant probitáſque pudórque,</l>
+            <l>Aſtraea &amp; ſolitis det pia iura locis.</l>
+            <l>At lites valeant, valeant at praelia, ſaeui</l>
+            <l>Exulet immani Martis at orbe furor.</l>
+            <l>Quaeque tuam niuea defendit pace Sareptam,</l>
+            <l>Tuta ſit auxillis <hi>ELIZABETHA</hi> tuis.</l>
+            <l>Audiit, &amp; coelo ſpes in mea pectora venit,</l>
+            <l>Et melior ſpero qui venit annus erit.</l>
+         </div>
+         <div xml:lang="lat" type="to_William_Norreys">
+            <pb facs="tcp:183896:21"/>
+            <head>AD GVLIELMVM NORRICIVM, Henrici Norricij fil. natu max. ſummae ſpei iuuenem, Epigramma.</head>
+            <l>Stemmate nobilium quòd ſis Gulielme parentum</l>
+            <l>Ortus, &amp; innumeros quòd numeres atauos,</l>
+            <l>Clarus es, &amp; populo chariſſimus inde Britanno,</l>
+            <l>Nobilis &amp; titulum fulgidáque arma geris.</l>
+            <l>At potius purae virtutis captus amore,</l>
+            <l>Quòd vitas vitij ſemina quaeque mali,</l>
+            <l>Quòd pietate refers niueo &amp; candore parentem,</l>
+            <l>Eſt tibi quòd curae cum probitate fides,</l>
+            <l>Nobilis &amp; verè clarus Gulielme probaris,</l>
+            <l>Hinc tua nobilitas ſuſpicienda fuit.</l>
+            <closer>
+               <signed>D. ROGERIVS.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div xml:lang="lat" type="colophon">
+            <p>ANNO MDLXVIII.</p>
+            <p>CALEND. IANVAR.</p>
+            <pb facs="tcp:183896:21" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
